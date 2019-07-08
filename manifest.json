@@ -1,0 +1,13 @@
+{
+   "Name": "Tree Hider",
+   "Author": "SamRaven2",
+   "Version": "1.0.0",
+   "Description": "Hides the annoying in the way trees I hate.",
+   "UniqueID": "SamRaven2.TreeHider",
+   "MinimumApiVersion": "2.11",
+   "UpdateKeys": ["Github:SamRaven2/TreeHider"],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.9" // optional
+   }
+}
